@@ -1,0 +1,2 @@
+emil_odev4.faktoriyel
+factoriel_thread.faktoriyel
